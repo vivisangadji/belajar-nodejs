@@ -1,2 +1,2 @@
 # belajar-nodejs
-Program sederhana liat dari google
+Program crud sederhana belajar dari google
