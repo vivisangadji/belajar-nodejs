@@ -1,2 +1,2 @@
 # belajar-nodejs
-Program crud sederhana belajar dari google
+Simple CRUD using nodejs, mysql, express, hbs
